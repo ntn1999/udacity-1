@@ -11,7 +11,7 @@ jobs:
     steps:
       - node/install
       - checkout
-      # install dependencies in both apps
+      # install dependencies in both appsffff
       - run:
           name: Front-End Install
           command: |
